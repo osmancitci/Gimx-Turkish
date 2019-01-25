@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GIMX 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-27 19:35+0200\n"
-"PO-Revision-Date: 2019-01-25 23:58+0300\n"
+"PO-Revision-Date: 2019-01-26 01:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: Osman Çitçi <www.osmancitci.com.tr>\n"
 "Language: tr_TR\n"
@@ -203,7 +203,7 @@ msgstr "%s Fare Kalibrasyonu (%d)\n"
 #: ../core/calibration.c:199
 #, c-format
 msgid "calibrating conf %d\n"
-msgstr "conf Kalbirasyonu %d\n"
+msgstr "Conf Kalbirasyonu %d\n"
 
 #: ../core/calibration.c:200
 msgid "sensibility:"
@@ -265,7 +265,7 @@ msgstr "*Zaman: %d\n"
 
 #: ../core/calibration.c:312 ../core/calibration.c:335
 msgid "mouse selection\n"
-msgstr "fare Seçimi\n"
+msgstr "Fare Seçimi\n"
 
 #: ../core/calibration.c:317 ../core/calibration.c:344
 msgid "profile selection\n"
@@ -370,7 +370,7 @@ msgstr "*Makrolar İçin Mevcut Değil: %s %s (%d)\n"
 
 #: ../core/controller.c:598
 msgid "no GPP detected.\n"
-msgstr "-GPP Tespit Edilmedi.\n"
+msgstr "GPP Tespit Edilmedi.\n"
 
 #: ../core/controller.c:603
 #, c-format
@@ -499,7 +499,7 @@ msgstr " Şekil="
 
 #: ../core/display.c:142
 msgid "circle"
-msgstr "daire"
+msgstr "Daire"
 
 #: ../core/display.c:146
 msgid "rectangle"
@@ -553,12 +553,12 @@ msgstr "Düğmeler"
 
 #: ../core/display.c:325
 msgid "Refresh rate:"
-msgstr "Tazeleme oranı:"
+msgstr "Yenileme Oranı:"
 
 #: ../core/display.c:348
 #, c-format
 msgid "Refresh rate: %4dHz  "
-msgstr "Tazeleme oranı: %4dHz  "
+msgstr "Yenileme Oranı: %4dHz  "
 
 #: ../core/gimx.c:315
 #, c-format
@@ -1588,8 +1588,8 @@ msgid ""
 "Profiles 1 & 2 do not contain the same bindings.\n"
 "Editing this conf with gimx-fpsconfig can mess the bindings."
 msgstr ""
-"1 ve 2 ci Profilleri Aynı Bağlantıları İçermez.\n"
-"Bu Confingi Gimx-Fpsconfig İle Düzenlemek Bağlamaları Bozabilir."
+"1 & 2 ci Profiller Aynı Bağlantıları İçermez.\n"
+"Bu Config Gimx-Fpsconfig İle Düzenlemek Bağlantıları Bozabilir."
 
 #: ../fpsconfig/gimx-fpsconfig.cpp:2069
 msgid "Auto-bind done!"
