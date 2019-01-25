@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GIMX 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-27 19:35+0200\n"
-"PO-Revision-Date: 2019-01-25 23:47+0300\n"
+"PO-Revision-Date: 2019-01-25 23:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: Osman Çitçi <www.osmancitci.com.tr>\n"
 "Language: tr_TR\n"
@@ -1914,7 +1914,7 @@ msgstr "*Gimx Başlatılamaz!"
 
 #: ../launcher/gimx-launcher.cpp:1643
 msgid "GIMX failed with a generic error (please report this)."
-msgstr "GIMX Genel Bir Hatayla Başarısız Oldu ( Lütfen Bunu Bildirin )."
+msgstr "GIMX Genel Bir Hata ile Başarısız Oldu ( Lütfen Bunu Bildirin )."
 
 #: ../launcher/gimx-launcher.cpp:1648
 msgid "Failed to detect the GPP/Cronus/Titan device."
@@ -1988,7 +1988,7 @@ msgid ""
 "Mouse was captured, input was \"physical devices\", and focus was lost. "
 "Either you pressed alt+tab or some other app took focus.\n"
 msgstr ""
-"Fare yakalandı, Giriş \"Fiziksel Aygıtlar \",  idi ve odak kaybedildi. Alt"
+"Fare Yakalandı, Giriş \"Fiziksel Aygıtlar \",  idi ve odak kaybedildi. Alt"
 "+Tab Tuşlarına Bastınız yada Başka Bir Uygulama Pencereyi Kaybettirdi Lütfen "
 "Kontrol Ediniz. \n"
 
@@ -2295,7 +2295,7 @@ msgstr "Yapılandırmanızı Kaydetmek İstermisiniz?"
 
 #: ../launcher/gimx-launcher.cpp:1194
 msgid "Physical devices (elevated privileges)"
-msgstr "Fiziksel cihazlar (yükseltilmiş ayrıcalıklar)"
+msgstr "Fiziksel cihazlar ( Yüksek Öncelik )"
 
 #~ msgid "Can't save_current "
 #~ msgstr "Kaydedemiyorum "
