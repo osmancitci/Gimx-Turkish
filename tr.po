@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GIMX 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-27 19:35+0200\n"
-"PO-Revision-Date: 2019-01-26 01:54+0300\n"
+"PO-Revision-Date: 2019-01-26 20:43+0300\n"
 "Last-Translator: \n"
 "Language-Team: Osman Çitçi <www.osmancitci.com.tr>\n"
 "Language: tr_TR\n"
@@ -902,7 +902,7 @@ msgstr "Hızlanma [0.00..]"
 
 #: ../config/gimx-config.cpp:1237
 msgid "Overall"
-msgstr "Tüm"
+msgstr "Tümü"
 
 #: ../config/gimx-config.cpp:1244
 msgid "New\tCtrl-N"
@@ -2295,7 +2295,7 @@ msgstr "Yapılandırmanızı Kaydetmek İstermisiniz?"
 
 #: ../launcher/gimx-launcher.cpp:1194
 msgid "Physical devices (elevated privileges)"
-msgstr "Fiziksel cihazlar ( Yüksek Öncelik )"
+msgstr "Fiziksel Aygıtlar ( Yüksek Öncelik )"
 
 #~ msgid "Can't save_current "
 #~ msgstr "Kaydedemiyorum "
