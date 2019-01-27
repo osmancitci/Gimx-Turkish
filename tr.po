@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GIMX 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-27 19:35+0200\n"
-"PO-Revision-Date: 2019-01-26 20:43+0300\n"
+"PO-Revision-Date: 2019-01-27 18:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: Osman Çitçi <www.osmancitci.com.tr>\n"
 "Language: tr_TR\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: ../core/args.c:192
 #, c-format
 msgid "ignoring: -%c %s (max controllers reached)\n"
-msgstr "*Yok Sayılıyor: -%c %s (Maks. Kontroller Sayısına Ulaşıldı)\n"
+msgstr "Yok Sayılıyor: -%c %s (Maks. Kontroller Sayısına Ulaşıldı)\n"
 
 #: ../core/args.c:202
 #, c-format
@@ -35,17 +35,17 @@ msgstr " %s arg ile"
 #: ../core/args.c:215
 #, c-format
 msgid "controller #%d: option -b with value `%s'\n"
-msgstr "*Kontroller #%d: -b Baglanilan Port `%s'\n"
+msgstr "Kontroller #%d: -b Baglanilan Port `%s'\n"
 
 #: ../core/args.c:217 ../core/args.c:275 ../core/args.c:363
 #, c-format
 msgid "now reading arguments for controller #%d\n"
-msgstr "*Simdi #%d Kontroller icin Bagimsiz Degiskenleri Okuyor\n"
+msgstr "Simdi #%d Kontroller icin Bagimsiz Degiskenleri Okuyor\n"
 
 #: ../core/args.c:222
 #, c-format
 msgid "global option -c with value `%s'\n"
-msgstr "*Ayarli Config Degeri -c `%s'\n"
+msgstr "Ayarli Config Degeri -c `%s'\n"
 
 #: ../core/args.c:233
 #, c-format
@@ -55,7 +55,7 @@ msgstr "Kötü Etkinlik Biçimi: %s\n"
 #: ../core/args.c:244
 #, c-format
 msgid "controller #%d: option -e with value `%s(%d)'\n"
-msgstr "*Kontroller #%d: -e Baglanilan Port `%s(%d)'\n"
+msgstr "Kontroller #%d: -e Baglanilan Port `%s(%d)'\n"
 
 #: ../core/args.c:251
 #, c-format
@@ -65,7 +65,7 @@ msgstr "Etkinlik İçin Hatalı Eksen Adı: %s\n"
 #: ../core/args.c:260
 #, c-format
 msgid "controller #%d: option -h with value `%d'\n"
-msgstr "*Kontroller #%d: -h Baglanilan Port `%d'\n"
+msgstr "Kontroller #%d: -h Baglanilan Port `%d'\n"
 
 #: ../core/args.c:267
 #, c-format
@@ -75,7 +75,7 @@ msgstr "Argüman İçin Kötü Format -d: '%s'\n"
 #: ../core/args.c:273
 #, c-format
 msgid "controller #%d: option -d with value `%s'\n"
-msgstr "*Kontroller #%d: -d Baglanilan Port  `%s'\n"
+msgstr "Kontroller #%d: -d Baglanilan Port  `%s'\n"
 
 #: ../core/args.c:288
 #, c-format
@@ -85,70 +85,70 @@ msgstr "Argüman İçin Kötü Format -s: '%s'\n"
 #: ../core/args.c:293
 #, c-format
 msgid "controller #%d: option -s with value `%s'\n"
-msgstr "*Kontroller #%d: -s Baglanilan Port `%s'\n"
+msgstr "Kontroller #%d: -s Baglanilan Port `%s'\n"
 
 #: ../core/args.c:301
 #, c-format
 msgid "controller #%d: option -k with value `%s'\n"
-msgstr "*Kontroller #%d: -k Baglanilan Port  `%s'\n"
+msgstr "Kontroller #%d: -k Baglanilan Port  `%s'\n"
 
 #: ../core/args.c:322
 #, c-format
 msgid "can't open log file (%s)\n"
-msgstr "*Log Dosyası Açılamıyor (%s)\n"
+msgstr "Log Dosyası Açılamıyor (%s)\n"
 
 #: ../core/args.c:326
 #, c-format
 msgid "global option -l with value `%s'\n"
-msgstr "*Ayarli Config Degeri -l `%s'\n"
+msgstr "Ayarli Config Degeri -l `%s'\n"
 
 #: ../core/args.c:330
 msgid "log file can't be used with curses\n"
-msgstr "*Log Dosyası Fare Modunda Kullanılamaz\n"
+msgstr "Log Dosyası Fare Modunda Kullanılamaz\n"
 
 #: ../core/args.c:336
 msgid "only one log file can be specified\n"
-msgstr "*Sadece Bir Log Dosyası Belirtilebilir\n"
+msgstr "Sadece Bir Log Dosyası Belirtilebilir\n"
 
 #: ../core/args.c:356
 #, c-format
 msgid "port already used: `%s'\n"
-msgstr "*Port Zaten Kullanılmış: `%s'\n"
+msgstr "Port Zaten Kullanılmış: `%s'\n"
 
 #: ../core/args.c:361
 #, c-format
 msgid "controller #%d: option -p with value `%s'\n"
-msgstr "*Kontroller #%d: -p Baglanilan Port `%s'\n"
+msgstr "Kontroller #%d: -p Baglanilan Port `%s'\n"
 
 #: ../core/args.c:369
 #, c-format
 msgid "global option -q with value `%s'\n"
-msgstr "*Ayarli Config Degeri -q `%s'\n"
+msgstr "Ayarli Config Degeri -q `%s'\n"
 
 #: ../core/args.c:377
 #, c-format
 msgid "global option -r with value `%s'\n"
-msgstr "*Ayarli Config Degeri -r `%s'\n"
+msgstr "Ayarli Config Degeri -r `%s'\n"
 
 #: ../core/args.c:387
 #, c-format
 msgid "controller #%d: option -t with value `%s'\n"
-msgstr "*Kontroller #%d: -t Baglanilan Port `%s'\n"
+msgstr "Kontroller #%d: -t Baglanilan Port `%s'\n"
 
 #: ../core/args.c:429
 #, c-format
 msgid "unrecognized option: %c\n"
-msgstr "*Tanımlanamayan Seçenek: %c\n"
+msgstr "Tanımlanamayan Seçenek: %c\n"
 
 #: ../core/args.c:439
 #, c-format
 msgid "grab flag is unset\n"
-msgstr "grab Ayarlandi\n"
+msgstr "Pencere Yakalama Ayarlandi\n"
 
 #: ../core/args.c:441
 #, c-format
 msgid "status flag is set\n"
-msgstr "*Durum Ayarlandi\n"
+msgstr "Durum Ayarlandi\n"
 
 #: ../core/args.c:443
 #, c-format
@@ -158,27 +158,27 @@ msgstr "subpos Ayarlandi\n"
 #: ../core/args.c:445
 #, c-format
 msgid "force_updates flag is set\n"
-msgstr "force_updates Ayarlandi\n"
+msgstr "Guncellemeleri Zorlama Ayarlandi\n"
 
 #: ../core/args.c:447
 #, c-format
 msgid "curses flag is set\n"
-msgstr "*Fare Modu Ayarlandi\n"
+msgstr "Fare Modu Ayarlandi\n"
 
 #: ../core/args.c:449
 #, c-format
 msgid "window_events flag is set\n"
-msgstr "window_Events Ayarlandi\n"
+msgstr "Pencere Olayları Ayarlandi\n"
 
 #: ../core/args.c:451
 #, c-format
 msgid "btstack flag is set\n"
-msgstr "btstack Ayarlandi\n"
+msgstr "Bluetooth Ayarlandi\n"
 
 #: ../core/args.c:453
 #, c-format
 msgid "skip_leds flag is set\n"
-msgstr "skip_leds Ayarlandi\n"
+msgstr "Ledleri Gec Ayarlandi\n"
 
 #: ../core/args.c:455
 #, c-format
@@ -188,12 +188,12 @@ msgstr "ff_conv Ayarlandi\n"
 #: ../core/args.c:457
 #, c-format
 msgid "auto-grab flag is set\n"
-msgstr "auto-grab Ayarlandi\n"
+msgstr "Otomatik Pencere Yakalama Ayarlandi\n"
 
 #: ../core/args.c:488
 #, c-format
 msgid "%s flag is set\n"
-msgstr "*%s Durum Ayarlandi\n"
+msgstr "%s Durum Ayarlandi\n"
 
 #: ../core/calibration.c:198
 #, c-format
@@ -207,7 +207,7 @@ msgstr "Conf Kalbirasyonu %d\n"
 
 #: ../core/calibration.c:200
 msgid "sensibility:"
-msgstr "*Duyarlılık:"
+msgstr "Duyarlılık:"
 
 #: ../core/calibration.c:207 ../core/calibration.c:216
 #: ../core/calibration.c:225 ../core/calibration.c:234
@@ -222,15 +222,15 @@ msgstr "x/y Oranı:"
 
 #: ../core/calibration.c:218
 msgid "dead zone x:"
-msgstr "*Ölü Bölge X:"
+msgstr "Ölü Bölge X:"
 
 #: ../core/calibration.c:227
 msgid "dead zone y:"
-msgstr "*Ölü Bölge Y:"
+msgstr "Ölü Bölge Y:"
 
 #: ../core/calibration.c:236
 msgid "shape:"
-msgstr "*Şekil:"
+msgstr "Şekil:"
 
 #: ../core/calibration.c:241
 msgid " Circle\n"
@@ -242,26 +242,26 @@ msgstr " Dikdörtgen\n"
 
 #: ../core/calibration.c:252
 msgid "acceleration x:"
-msgstr "*Hızlanma X:"
+msgstr "Hızlanma X:"
 
 #: ../core/calibration.c:261
 msgid "acceleration y:"
-msgstr "*Hızlanma Y:"
+msgstr "Hızlanma Y:"
 
 #: ../core/calibration.c:270
 #, c-format
 msgid "radius: %d\n"
-msgstr "*Yarıçap: %d\n"
+msgstr "Yarıçap: %d\n"
 
 #: ../core/calibration.c:271
 #, c-format
 msgid "velocity: %d\n"
-msgstr "*Hız: %d\n"
+msgstr "Hız: %d\n"
 
 #: ../core/calibration.c:272
 #, c-format
 msgid "time: %d\n"
-msgstr "*Zaman: %d\n"
+msgstr "Zaman: %d\n"
 
 #: ../core/calibration.c:312 ../core/calibration.c:335
 msgid "mouse selection\n"
@@ -269,12 +269,12 @@ msgstr "Fare Seçimi\n"
 
 #: ../core/calibration.c:317 ../core/calibration.c:344
 msgid "profile selection\n"
-msgstr "*Profil Seçimi\n"
+msgstr "Profil Seçimi\n"
 
 #: ../core/calibration.c:325
 #, c-format
 msgid "error writting the config file %s\n"
-msgstr "*Config Dosyası %s Yazılırken Hata Oluştu\n"
+msgstr "Config Dosyası %s Yazılırken Hata Oluştu\n"
 
 #: ../core/calibration.c:327
 msgid "calibration done\n"
@@ -286,44 +286,44 @@ msgstr "Kalibrasyon Duyarlılığı\n"
 
 #: ../core/calibration.c:357
 msgid "calibrating x/y ratio\n"
-msgstr "x/Y Oran Kalibrasyonu\n"
+msgstr "x/y Oran Kalibrasyonu\n"
 
 #: ../core/calibration.c:364
 msgid "calibrating dead zone x\n"
-msgstr "*Ölü Bölge Kalibrasyonu X\n"
+msgstr "Ölü Bölge Kalibrasyonu X\n"
 
 #: ../core/calibration.c:374
 msgid "calibrating dead zone y\n"
-msgstr "*Ölü Bölge Kalibrasyonu Y\n"
+msgstr "Ölü Bölge Kalibrasyonu Y\n"
 
 #: ../core/calibration.c:384
 msgid "calibrating dead zone shape\n"
-msgstr "*Ölü Bölge Kalibrasyonu Şekil\n"
+msgstr "Ölü Bölge Kalibrasyonu Şekil\n"
 
 #: ../core/calibration.c:394
 msgid "calibrating acceleration x\n"
-msgstr "*Hızlanma Kalibrasyonu X\n"
+msgstr "Hızlanma Kalibrasyonu X\n"
 
 #: ../core/calibration.c:401
 msgid "calibrating acceleration y\n"
-msgstr "*Hızlanma Kalibrasyonu Y\n"
+msgstr "Hızlanma Kalibrasyonu Y\n"
 
 #: ../core/calibration.c:412
 msgid "adjusting circle test radius\n"
-msgstr "*Daire Testi Yarıçapı Ayarlama\n"
+msgstr "Daire Testi Yarıçapı Ayarlama\n"
 
 #: ../core/calibration.c:423
 msgid "adjusting circle test velocity\n"
-msgstr "*Daire Testi Hızını Ayarlama\n"
+msgstr "Daire Testi Hızını Ayarlama\n"
 
 #: ../core/calibration.c:437
 msgid "translation test started\n"
-msgstr "*Çeviri Testi Başladı\n"
+msgstr "Çeviri Testi Başladı\n"
 
 #: ../core/config.c:639
 #, c-format
 msgid "controller %d profile %d axis %s intensity: %.0f\n"
-msgstr "*Kontroller %d Profil %d Eksen %s Şiddeti : %.0f\n"
+msgstr "Kontroller %d Profil %d Eksen %s Şiddeti : %.0f\n"
 
 #: ../core/config.c:855
 #, c-format
@@ -333,17 +333,17 @@ msgstr "%d %ld.%06ld Kontroller %d, %d ile %d Profilden Değiştirildi\n"
 #: ../core/config_reader.c:80
 #, c-format
 msgid "joystick not found: %s %d\n"
-msgstr "*Joystick Bulunamadı: %s %d\n"
+msgstr "Joystick Bulunamadı: %s %d\n"
 
 #: ../core/config_reader.c:83
 #, c-format
 msgid "mouse not found: %s %d\n"
-msgstr "*Fare Bulunamadı: %s %d\n"
+msgstr "Fare Bulunamadı: %s %d\n"
 
 #: ../core/config_reader.c:86
 #, c-format
 msgid "keyboard not found: %s %d\n"
-msgstr "*Klavye Bulunamadı: %s %d\n"
+msgstr "Klavye Bulunamadı: %s %d\n"
 
 #: ../core/config_reader.c:142
 msgid "A device name is empty. Multiple mice and keyboards are not managed.\n"
@@ -356,17 +356,17 @@ msgstr "%s ya bağlı : %d\n"
 
 #: ../core/connectors/usb_con.c:413
 msgid "no pass-through device is needed\n"
-msgstr "*Geçiş Cihazına Gerek Yoktur\n"
+msgstr "Geçiş Cihazına Gerek Yoktur\n"
 
 #: ../core/connectors/usb_con.c:422
 #, c-format
 msgid "found pass-through device 0x%04x:0x%04x\n"
-msgstr "*Gecis Cihazı Bulundu 0x%04x:0x%04x\n"
+msgstr "Gecis Cihazı Bulundu 0x%04x:0x%04x\n"
 
 #: ../core/controller.c:276
 #, c-format
 msgid "macros are not available for: %s %s (%d)\n"
-msgstr "*Makrolar İçin Mevcut Değil: %s %s (%d)\n"
+msgstr "Makrolar İçin Mevcut Değil: %s %s (%d)\n"
 
 #: ../core/controller.c:598
 msgid "no GPP detected.\n"
@@ -379,11 +379,11 @@ msgstr "GPP Tespit Edildi, Kontrolor Tipi: %s.\n"
 
 #: ../core/controller.c:608
 msgid "unknown GPP controller type.\n"
-msgstr "*Bilinmeyen GPP Kontroller Tipi.\n"
+msgstr "Bilinmeyen GPP Kontroller Tipi.\n"
 
 #: ../core/controller.c:619
 msgid "failed to open the GIMX adapter\n"
-msgstr "*GIMX Adaptör Açılamadı\n"
+msgstr "GIMX Adaptör Açılamadı\n"
 
 #: ../core/controller.c:633
 #, c-format
@@ -392,15 +392,15 @@ msgstr "GIMX Adaptor Algilandi, Kontroller Tipi: %s.\n"
 
 #: ../core/controller.c:641
 msgid "wrong controller type.\n"
-msgstr "*Yanlış Kontrollor Tipi\n"
+msgstr "Yanlış Kontrollor Tipi\n"
 
 #: ../core/controller.c:649
 msgid "failed to get the GIMX adapter status.\n"
-msgstr "*GIMX Adaptör Durum Bilgisi Alınamadı\n"
+msgstr "GIMX Adaptör Durum Bilgisi Alınamadı\n"
 
 #: ../core/controller.c:667
 msgid "failed to reset the GIMX adapter.\n"
-msgstr "*GIMX Adaptör Sıfırlanamadı\n"
+msgstr "GIMX Adaptör Sıfırlanamadı\n"
 
 #: ../core/controller.c:672
 msgid "Reset sent to the GIMX adapter.\n"
@@ -425,7 +425,7 @@ msgstr ""
 #: ../core/controller.c:743
 #, c-format
 msgid "failed to connect to network destination: %s:%d.\n"
-msgstr "*Ağ Hedefine Bağlanamadı: %s:%d.\n"
+msgstr "Ağ Hedefine Bağlanamadı: %s:%d.\n"
 
 #: ../core/controller.c:748
 #, c-format
@@ -434,11 +434,11 @@ msgstr "Uzaktan GIMX Algılandı, Denetleyici Tipi:%s.\n"
 
 #: ../core/controller.c:859
 msgid "failed to start the GIMX adapter.\n"
-msgstr "*GIMX Bağdaştırıcısı Başlatılamadı.\n"
+msgstr "GIMX Bağdaştırıcısı Başlatılamadı.\n"
 
 #: ../core/controller.c:864
 msgid "failed to start the GIMX adapter asynchronous processing.\n"
-msgstr "*GIMX Bağdaştırıcısı Eş Zamanlı İşlem Başlatılamadı.\n"
+msgstr "GIMX Bağdaştırıcısı Eş Zamanlı İşlem Başlatılamadı.\n"
 
 #: ../core/controller.c:870
 #, c-format
@@ -447,24 +447,24 @@ msgstr "Kontroller Etkinlestirmek Icin ( %s ) Dugmesine Basin.\n"
 
 #: ../core/controller.c:882
 msgid "failed to initialize the sixaxis emulation.\n"
-msgstr "*Sixaxis Emülasyonu Başlatılamadı.\n"
+msgstr "Sixaxis Emülasyonu Başlatılamadı.\n"
 
 #: ../core/controller.c:891
 msgid "failed to initialize the dualshock 4 emulation.\n"
-msgstr "*Dualshock 4 (DS4) Emülasyonu Başlatılamadı.\n"
+msgstr "Dualshock 4 (DS4) Emülasyonu Başlatılamadı.\n"
 
 #: ../core/controller.c:898
 msgid "unsupported bluetooth controller type.\n"
-msgstr "*Desteklenmeyen Bluetooth Denetleyici Türü.\n"
+msgstr "Desteklenmeyen Bluetooth Denetleyici Türü.\n"
 
 #: ../core/controller.c:914
 msgid "failed to start the GPP asynchronous processing.\n"
-msgstr "*GPP Eşzamansız İşlem Başlatılamadı.\n"
+msgstr "GPP Eşzamansız İşlem Başlatılamadı.\n"
 
 #: ../core/controller.c:924
 #, c-format
 msgid "failed to listen on network source: %s:%d.\n"
-msgstr "*Ağ Kaynağından Dinlenemedi: %s:%d.\n"
+msgstr "Ağ Kaynağından Dinlenemedi: %s:%d.\n"
 
 #: ../core/display.c:23 ../launcher/gimx-launcher.cpp:1571
 msgid "Press Shift+Esc to exit."
@@ -503,7 +503,7 @@ msgstr "Daire"
 
 #: ../core/display.c:146
 msgid "rectangle"
-msgstr "*Dikdörtgen"
+msgstr "Dikdörtgen"
 
 #: ../core/display.c:151 ../core/display.c:220
 msgid " N/A"
@@ -528,12 +528,12 @@ msgstr " Daire Testi"
 #: ../core/display.c:243
 #, c-format
 msgid "radius=%d (F10)"
-msgstr "*Yarı Çap=%d (F10)"
+msgstr "Yarı Çap=%d (F10)"
 
 #: ../core/display.c:254
 #, c-format
 msgid "velocity=%d (F11)"
-msgstr "*Hız=%d (F11)"
+msgstr "Hız=%d (F11)"
 
 #: ../core/display.c:264
 msgid " ratio="
@@ -563,7 +563,7 @@ msgstr "Yenileme Oranı: %4dHz  "
 #: ../core/gimx.c:315
 #, c-format
 msgid "using default refresh period: %.02fms\n"
-msgstr "*Varsayilan Yenileme Suresini Kullanma: %.02fms\n"
+msgstr "Varsayilan Yenileme Suresini Kullanma: %.02fms\n"
 
 #: ../core/gimx.c:448
 #, c-format
@@ -598,27 +598,27 @@ msgstr "Dikdörtgen"
 #: ../config/gimx-config.cpp:3202 ../config/gimx-config.cpp:4070
 #: ../config/gimx-config.cpp:4609
 msgid "mouse"
-msgstr "*Fare"
+msgstr "Fare"
 
 #: ../config/gimx-config.cpp:271
 msgid "keyboard"
-msgstr "*Klavye"
+msgstr "Klavye"
 
 #: ../config/gimx-config.cpp:275 ../config/gimx-config.cpp:1141
 #: ../config/gimx-config.cpp:3202 ../config/gimx-config.cpp:4501
 #: ../config/gimx-config.cpp:4562
 msgid "axis"
-msgstr "*Eksen"
+msgstr "Eksen"
 
 #: ../config/gimx-config.cpp:279 ../config/gimx-config.cpp:1056
 #: ../config/gimx-config.cpp:1976 ../config/gimx-config.cpp:2104
 msgid "axis up"
-msgstr "*Eksen Yukarı"
+msgstr "Eksen Yukarı"
 
 #: ../config/gimx-config.cpp:283 ../config/gimx-config.cpp:1057
 #: ../config/gimx-config.cpp:1972 ../config/gimx-config.cpp:2100
 msgid "axis down"
-msgstr "*Eksen Aşağı"
+msgstr "Eksen Aşağı"
 
 #: ../config/gimx-config.cpp:287 ../config/gimx-config.cpp:428
 #: ../config/gimx-config.cpp:1055 ../config/gimx-config.cpp:1142
@@ -630,7 +630,7 @@ msgstr "*Eksen Aşağı"
 #: ../config/gimx-config.cpp:3978 ../config/gimx-config.cpp:4072
 #: ../config/gimx-config.cpp:4596
 msgid "button"
-msgstr "*Düğme"
+msgstr "Düğme"
 
 #: ../config/gimx-config.cpp:291 ../config/gimx-config.cpp:765
 msgid "Aiming"
@@ -761,7 +761,7 @@ msgstr "Yön"
 #: ../config/gimx-config.cpp:848 ../config/gimx-config.cpp:1165
 #: ../fpsconfig/gimx-fpsconfig.cpp:293
 msgid "DZ"
-msgstr "DZ"
+msgstr "Ölü Bölge"
 
 #: ../config/gimx-config.cpp:849 ../config/gimx-config.cpp:880
 #: ../config/gimx-config.cpp:1166 ../config/gimx-config.cpp:1217
@@ -854,7 +854,7 @@ msgstr "Joystick Düzeltmeleri"
 
 #: ../config/gimx-config.cpp:1033
 msgid "Force Feedback Tweaks"
-msgstr "Force Feedback Düzenlemeler"
+msgstr "Force Feedback Düzenlemeleri"
 
 #: ../config/gimx-config.cpp:1052 ../config/gimx-config.cpp:1105
 #: ../config/gimx-config.cpp:1138 ../config/gimx-config.cpp:1214
@@ -872,7 +872,7 @@ msgstr "Etiket"
 
 #: ../config/gimx-config.cpp:1168 ../fpsconfig/gimx-fpsconfig.cpp:295
 msgid "Sens."
-msgstr "Duyarlılık."
+msgstr "Duyarlılık"
 
 #: ../config/gimx-config.cpp:1169 ../config/gimx-config.cpp:1218
 #: ../fpsconfig/gimx-fpsconfig.cpp:296
@@ -881,7 +881,7 @@ msgstr "Duyarlılık"
 
 #: ../config/gimx-config.cpp:1171 ../fpsconfig/gimx-fpsconfig.cpp:297
 msgid "Accel."
-msgstr "Hızlanma."
+msgstr "Hızlanma"
 
 #: ../config/gimx-config.cpp:1172 ../config/gimx-config.cpp:1219
 #: ../fpsconfig/gimx-fpsconfig.cpp:298
@@ -1123,7 +1123,7 @@ msgstr "Dosya Seçin"
 #: ../config/gimx-config.cpp:1365 ../config/gimx-config.cpp:2831
 #: ../fpsconfig/gimx-fpsconfig.cpp:1084 ../fpsconfig/gimx-fpsconfig.cpp:2055
 msgid "XML files (*.xml)|*.xml"
-msgstr "XML Dosyaları (*.xml) | * .xml"
+msgstr "XML Dosyaları (*.xml) | *.xml"
 
 #: ../config/gimx-config.cpp:1470 ../fpsconfig/gimx-fpsconfig.cpp:499
 msgid "It's not recommended to run as root user. Continue?"
@@ -1424,7 +1424,7 @@ msgstr "Joystick Eksen Seçenekleri Zaten Tanımlanmış!"
 #: ../config/gimx-config.cpp:4499 ../config/gimx-config.cpp:4560
 #: ../config/gimx-config.cpp:4628
 msgid "joystick"
-msgstr "*Joystick"
+msgstr "Joystick"
 
 #: ../config/gimx-config.cpp:4533
 msgid "Select an event."
@@ -1716,26 +1716,26 @@ msgstr "Mesajlar"
 
 #: ../launcher/gimx-launcher.cpp:1007
 msgid "none"
-msgstr "*Yok"
+msgstr "Yok"
 
 #: ../launcher/gimx-launcher.cpp:1008 ../launcher/gimx-launcher.cpp:1455
 msgid "curses"
-msgstr "*Fare Modu"
+msgstr "Fare Modu"
 
 #: ../launcher/gimx-launcher.cpp:1009 ../launcher/gimx-launcher.cpp:1459
 #: ../launcher/gimx-launcher.cpp:1472 ../launcher/gimx-launcher.cpp:1478
 msgid "text"
-msgstr "*Metin"
+msgstr "Metin"
 
 #: ../launcher/gimx-launcher.cpp:1010 ../launcher/gimx-launcher.cpp:1463
 #: ../launcher/gimx-launcher.cpp:1473 ../launcher/gimx-launcher.cpp:1482
 #: ../launcher/gimx-launcher.cpp:1722
 msgid "log file"
-msgstr "*Log Dosyası"
+msgstr "Log Dosyası"
 
 #: ../launcher/gimx-launcher.cpp:1011 ../launcher/gimx-launcher.cpp:1469
 msgid "debug"
-msgstr "*Hata Ayıkla"
+msgstr "Hata Ayıkla"
 
 #: ../launcher/gimx-launcher.cpp:1015
 msgid "Mouse capture"
@@ -1743,15 +1743,15 @@ msgstr "Fare Yakalama"
 
 #: ../launcher/gimx-launcher.cpp:1018 ../launcher/gimx-launcher.cpp:1516
 msgid "auto"
-msgstr "*Otomatik"
+msgstr "Otomatik"
 
 #: ../launcher/gimx-launcher.cpp:1019
 msgid "on"
-msgstr "*Açık"
+msgstr "Açık"
 
 #: ../launcher/gimx-launcher.cpp:1020 ../launcher/gimx-launcher.cpp:1512
 msgid "off"
-msgstr "*Kapalı"
+msgstr "Kapalı"
 
 #: ../launcher/gimx-launcher.cpp:1025
 msgid "Check"
@@ -1910,7 +1910,7 @@ msgstr "Hedefi Seçin:"
 
 #: ../launcher/gimx-launcher.cpp:1583
 msgid "can't start gimx!"
-msgstr "*Gimx Başlatılamaz!"
+msgstr "Gimx Başlatılamaz!"
 
 #: ../launcher/gimx-launcher.cpp:1643
 msgid "GIMX failed with a generic error (please report this)."
@@ -2270,7 +2270,7 @@ msgstr "GIMX Adaptör Algılanmadı."
 
 #: ../loader/gimx-loader.cpp:266
 msgid "failed to load firmware"
-msgstr "*Ürün Yazılımı Yüklenemedi"
+msgstr "Ürün Yazılımı Yüklenemedi"
 
 #: ../loader/gimx-loader.cpp:276
 msgid "Failed to load firmware."
@@ -2282,11 +2282,11 @@ msgstr "Yazılım Başarıyla Yüklendi!"
 
 #: ../config/configApp.h:26 ../fpsconfig/fpsconfigApp.h:25
 msgid "file"
-msgstr "*Dosya"
+msgstr "Dosya"
 
 #: ../config/configApp.h:26 ../fpsconfig/fpsconfigApp.h:25
 msgid "specifies a file to open"
-msgstr "*Açılacak Bir Dosya Seçin"
+msgstr "Açılacak Bir Dosya Seçin"
 
 #: ../config/gimx-config.cpp:1564 ../config/gimx-config.cpp:1571
 #: ../fpsconfig/gimx-fpsconfig.cpp:582 ../fpsconfig/gimx-fpsconfig.cpp:589
@@ -2301,10 +2301,10 @@ msgstr "Fiziksel Aygıtlar ( Yüksek Öncelik )"
 #~ msgstr "Kaydedemiyorum "
 
 #~ msgid "gimx-config"
-#~ msgstr "*Gimx-Config"
+#~ msgstr "Gimx-Config"
 
 #~ msgid "gimx-fpsconfig"
-#~ msgstr "*Gimx-Fpsconfig"
+#~ msgstr "Gimx-Fpsconfig"
 
 #~ msgid "gimx-launcher"
-#~ msgstr "*Gimx Türkiye"
+#~ msgstr "Gimx Türkiye"
