@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GIMX 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-27 19:35+0200\n"
-"PO-Revision-Date: 2019-01-27 18:28+0300\n"
+"PO-Revision-Date: 2019-01-30 02:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Osman Çitçi <www.osmancitci.com.tr>\n"
 "Language: tr_TR\n"
@@ -902,7 +902,7 @@ msgstr "Hızlanma [0.00..]"
 
 #: ../config/gimx-config.cpp:1237
 msgid "Overall"
-msgstr "Tümü"
+msgstr "Genel"
 
 #: ../config/gimx-config.cpp:1244
 msgid "New\tCtrl-N"
@@ -1837,15 +1837,15 @@ msgstr "Config Bulunamadı! Configleri İndir?"
 
 #: ../launcher/gimx-launcher.cpp:1288
 msgid "Failed to read debug flags!"
-msgstr "Hata Ayıklama Bayrakları Okunamadı!"
+msgstr "Hata Ayıklama Okunamadı!"
 
 #: ../launcher/gimx-launcher.cpp:1294
 msgid "No debug flag found!"
-msgstr "Hata Ayıklama Bayrağı Bulunamadı!"
+msgstr "Hata Ayıklama Bulunamadı!"
 
 #: ../launcher/gimx-launcher.cpp:1298
 msgid "Select the debug flags:"
-msgstr "Hata Ayıklama Bayraklarını Seçin:"
+msgstr "Hata Ayıklamaları Seçin:"
 
 #: ../launcher/gimx-launcher.cpp:1337 ../launcher/gimx-launcher.cpp:1736
 #: ../launcher/gimx-launcher.cpp:2187
@@ -1949,11 +1949,11 @@ msgstr ""
 
 #: ../launcher/gimx-launcher.cpp:1668
 msgid "Failed to detect the adapter (fallback error message)."
-msgstr "Bağdaştırıcı Algılanamadı (Yedek Hata İletisi)."
+msgstr "Bağdaştırıcı Algılanamadı (Geri Dönüş Hata Mesajı)."
 
 #: ../launcher/gimx-launcher.cpp:1672
 msgid "GIMX exited and the activation button was not pressed."
-msgstr "GIMX Çıkış Yapıldı ve Etkinleştirme Düğmesine Basılmadı."
+msgstr "Etkinleştirme Tuşuna Basılmadığı İçin GIMX'ten Çıkış Yapıldı."
 
 #: ../launcher/gimx-launcher.cpp:1675
 msgid "Inactivity timeout."
