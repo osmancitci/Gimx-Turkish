@@ -2,4 +2,4 @@
 
 Gimx Software Turkish Translation "tr.po" 
 
-Gimx Version 7.11
+Gimx Version 7.15
